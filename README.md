@@ -16,6 +16,12 @@ Clon de Flappy Bird escrito en Python.
    . ./venv/bin/activate
    ```
 
+1. Instalar dependencias:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
 1. Ejecutar videojuego:
 
    ```
